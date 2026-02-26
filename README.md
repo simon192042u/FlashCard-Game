@@ -95,3 +95,8 @@ Wir haben einen Schwellenwert (Threshold) für die X-Achse festgelegt:
 
 Diese **Hysterese** (der Abstand zwischen 7.0 und 2.0) verhindert das sogenannte „Bouncing“.  
 Ohne diesen Puffer würde eine einzige zittrige Bewegung dazu führen, dass die App 5 Fragen gleichzeitig überspringt.
+
+## App Screenshots
+![Screenshot](Screenshot%202026-02-26%20160048.png)
+![Screenshot](Screenshot%202026-02-26%20160301.png)
+![Screenshot](Screenshot%202026-02-26%20160321.png)
